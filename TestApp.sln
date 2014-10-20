@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{34202765-8299-4014-B8AE-CF0C2FB8E93D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPillServer", "RedPillServer\RedPillServer.csproj", "{039F418D-017F-4187-99F0-2004FADD546A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{34202765-8299-4014-B8AE-CF0C2FB8E93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34202765-8299-4014-B8AE-CF0C2FB8E93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34202765-8299-4014-B8AE-CF0C2FB8E93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039F418D-017F-4187-99F0-2004FADD546A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039F418D-017F-4187-99F0-2004FADD546A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039F418D-017F-4187-99F0-2004FADD546A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039F418D-017F-4187-99F0-2004FADD546A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
